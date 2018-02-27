@@ -1,0 +1,6 @@
+C:\Users\sanand\source\repos\CltsJsBuild\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\sanand\source\repos\CltsJsBuild\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\sanand\source\repos\CltsJsBuild\ClassLibrary1\obj\Debug\BuildEngine.csprojResolveAssemblyReference.cache
+C:\Users\sanand\source\repos\CltsJsBuild\ClassLibrary1\obj\Debug\BuildEngine.csproj.CoreCompileInputs.cache
+C:\Users\sanand\source\repos\CltsJsBuild\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\sanand\source\repos\CltsJsBuild\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

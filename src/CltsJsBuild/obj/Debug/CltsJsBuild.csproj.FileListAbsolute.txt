@@ -1,0 +1,7 @@
+C:\Users\sanand\source\repos\CltsJsBuild\CltsJsBuild\obj\Debug\CltsJsBuild.csprojResolveAssemblyReference.cache
+C:\Users\sanand\source\repos\CltsJsBuild\CltsJsBuild\obj\Debug\CltsJsBuild.csproj.CoreCompileInputs.cache
+C:\Users\sanand\source\repos\CltsJsBuild\CltsJsBuild\bin\Debug\CltsJsBuild.exe.config
+C:\Users\sanand\source\repos\CltsJsBuild\CltsJsBuild\bin\Debug\CltsJsBuild.exe
+C:\Users\sanand\source\repos\CltsJsBuild\CltsJsBuild\bin\Debug\CltsJsBuild.pdb
+C:\Users\sanand\source\repos\CltsJsBuild\CltsJsBuild\obj\Debug\CltsJsBuild.exe
+C:\Users\sanand\source\repos\CltsJsBuild\CltsJsBuild\obj\Debug\CltsJsBuild.pdb
